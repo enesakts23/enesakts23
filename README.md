@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Enes Aktas</h1>
-<h3 align="center">A passionate game developer from Turkey</h3>
+<h3 align="center">A passionate software engineer from Turkey</h3>
 
-- 💬 Ask me about **Unity**
+- 💬 Ask me about **Unity,.NET,matlab,python,C#**
 
 - 📫 How to reach me **enes.aktas00@hotmail.com**
 
