@@ -46,21 +46,29 @@
 <h3 align="center">📊 GitHub Stats</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=enesakts23&show_icons=true&locale=en&layout=compact" alt="enesakts23" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=enesakts23&show_icons=true&locale=en&layout=compact&theme=radical" alt="enesakts23" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=enesakts23&show_icons=true&locale=en" alt="enesakts23" />
+  <img src="https://github-readme-stats.vercel.app/api?username=enesakts23&show_icons=true&locale=en&theme=radical" alt="enesakts23" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=enesakts23&" alt="enesakts23" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=enesakts23&theme=radical" alt="enesakts23" />
 </p>
 
 ---
 
-<h3 align="center">🐍 Commit Activity Snake</h3>
+<h3 align="center">🔥 GitHub Activity Graph</h3>
 
 <p align="center">
-  <img src="https://github.com/enesakts23/enesakts23/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=enesakts23&theme=react-dark&hide_border=true&area=true" alt="activity graph" />
+</p>
+
+---
+
+<h3 align="center">🎨 Cool Banner</h3>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&text=Welcome%20to%20Enes's%20Profile&fontSize=30&fontAlignY=35" alt="banner" />
 </p>
