@@ -21,28 +21,39 @@
 <br/>
 
 <!-- 🧑‍🚀 ABOUT ME -->
-<img align="right" width="360" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="coding gif" />
+<h2 align="center">🚀 About Me</h2>
 
-## 🚀 About Me
+<table align="center">
+<tr>
+<td width="55%" valign="top">
 
 ```typescript
 const enes = {
     location: "Türkiye 🇹🇷",
     role: "Software Engineer",
-    languages: ["Python", "C#", "Solidity", "MATLAB"],
-    focus: ["AI & Deep Learning", "Computer Vision", "Blockchain"],
-    tools: ["PyTorch", "TensorFlow", "OpenCV", "Unity"],
-    currentlyLearning: "Everything I can 🧠",
-    funFact: "Code is like humor — if you have to explain it, it's bad 😄"
+    languages: ["Python", "C#", "Solidity"],
+    focus: ["AI", "Computer Vision", "Blockchain"],
+    tools: ["PyTorch", "TensorFlow", "OpenCV"],
+    learning: "Everything I can 🧠",
+    funFact: "Code is like humor 😄"
 };
 ```
 
-- 👨‍💻 All of my projects → [github.com/enesakts23](https://github.com/enesakts23)
-- 📝 I write tech articles on [Medium](https://medium.com/@enes.aktas)
-- 💬 Ask me about **Python, C#, Solidity, Unity, Computer Vision**
-- 📫 Reach me at **enes.aktas00@hotmail.com**
+</td>
+<td width="45%" valign="middle" align="center">
 
-<br clear="right"/>
+<img width="100%" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="coding gif" />
+
+</td>
+</tr>
+</table>
+
+<p align="center">
+  👨‍💻 All of my projects → <a href="https://github.com/enesakts23?tab=repositories">github.com/enesakts23</a> &nbsp;•&nbsp;
+  📝 Articles on <a href="https://medium.com/@enes.aktas">Medium</a><br/>
+  💬 Ask me about <b>Python, C#, Solidity, Unity, Computer Vision</b> &nbsp;•&nbsp;
+  📫 <b>enes.aktas00@hotmail.com</b>
+</p>
 
 ---
 
@@ -90,12 +101,12 @@ const enes = {
 <h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=enesakts23&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f7ff&icon_color=8a2be2&text_color=ffffff" alt="stats" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=enesakts23&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f7ff&icon_color=8a2be2&text_color=ffffff" alt="stats" />
   <img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs?username=enesakts23&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f7ff&text_color=ffffff" alt="top langs" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=enesakts23&theme=tokyonight&hide_border=true&background=0d1117&ring=00f7ff&fire=8a2be2&currStreakLabel=00f7ff" alt="streak" />
+  <img src="https://streak-stats.demolab.com/?user=enesakts23&theme=tokyonight&hide_border=true&background=0d1117&ring=00f7ff&fire=8a2be2&currStreakLabel=00f7ff" alt="streak" />
 </p>
 
 <!-- 🏆 TROPHIES -->
@@ -115,6 +126,8 @@ const enes = {
 ---
 
 <!-- 🐍 SNAKE ANIMATION -->
+<!-- NOT: Bu bölüm, .github/workflows/snake.yml workflow'u en az bir kez çalıştıktan sonra görünür.
+     Repo > Actions > "Generate Snake Animation" > Run workflow -->
 <h2 align="center">🐍 Contribution Snake</h2>
 
 <p align="center">
